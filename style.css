@@ -1,0 +1,7 @@
+html {  
+    margin:0px;
+    background-image: url("./organ.jpeg");
+    background-size: cover;
+    background-position: right;
+    background-attachment: fixed;
+ }
